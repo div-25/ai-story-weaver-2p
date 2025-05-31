@@ -1,0 +1,5 @@
+{
+  "name": "2 Player AI Story Weaver",
+  "description": "A single-user, 2-player role-play story maker game where you provide prompts for two characters, and AI weaves them into a narrative with occasional images. The story concludes after 50 total player turns.",
+  "requestFramePermissions": []
+}
