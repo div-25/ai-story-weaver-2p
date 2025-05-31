@@ -8,6 +8,8 @@
 
 A fun, interactive story-weaving game where two players take turns providing prompts to create an AI-powered narrative adventure! 📚✨
 
+![Screenshot](screenshots/ai-story-weaver-ss.png)
+
 ## ✨ Features
 
 - 🎮 Turn-based storytelling with two players
